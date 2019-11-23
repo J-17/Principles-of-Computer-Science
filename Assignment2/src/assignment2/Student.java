@@ -1,14 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package assignment2;
 import java.util.Scanner;
 
 /**
- * Title: ICT 167 Assignment 2
- * @author Sin Loo MAH (33220079)
+ * Title: Principles of Computer Science Assignment 2
+ * @author Jocelyn MAH 
  * File name: Student
  * Date of submission: 26th October 2018
  * Purpose: This is the based class that contain methods that getting information 
