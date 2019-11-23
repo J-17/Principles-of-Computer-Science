@@ -402,11 +402,7 @@ public class Student {
     public static void studentInfo(){
         System.out.println("");
         System.out.println("S T U D E N T  D E T A I L S");
-        System.out.println("Student name: Sin Loo MAH");
-        System.out.println("Student number: 33220079");
-        System.out.println("Mode of enrolment: Internal");
-        System.out.println("Tutor name: Mark Abernethy");
-        System.out.println("Tutorial attendance day and time: Thursday 3.30pm");
+        System.out.println("Student name: Jocelyn MAH");
         System.out.println("");
     }//end studentInfo
 }//end Student Class
