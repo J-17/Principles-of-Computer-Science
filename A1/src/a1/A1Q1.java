@@ -203,11 +203,7 @@ public class A1Q1 {
         
         System.out.println("");
         System.out.println("S T U D E N T  I N F O");
-        System.out.println("Student name: Sin Loo MAH");
-        System.out.println("Student number: 33220079");
-        System.out.println("Mode of enrolment: Internal");
-        System.out.println("Tutor name: Rukshima Debare");
-        System.out.println("Tutorial attendance day and time: Wednesday 3.30pm");
+        System.out.println("Student name: Jocelyn MAH");
         System.out.println("");
     
     }//end studentInfo
